@@ -4,7 +4,7 @@
 - 💞️ I am proficient in Swift, SwiftUI, UIKit, Java, C
 - I am currently developping a language translation app
 - 📫 Here is my LinkedIn profile: https://www.linkedin.com/in/mamoudou-barry-5a211321a
-- ⚡ Fun fact: I hiking, reppeling and caving 
+- ⚡ Fun fact: I like hiking, reppeling and caving 
 
 <!---
 mamoudou94/mamoudou94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
