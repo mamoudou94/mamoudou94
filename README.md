@@ -1,12 +1,10 @@
-- 👋 Hi, I’m Mamoudou Barry
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning Objective-C, and TypeScript
-- 💞️ I am proficient in Swift, SwiftUI, UIKit, Java, C
-- I am currently developping a language translation app
-- 📫 Here is my LinkedIn profile: https://www.linkedin.com/in/mamoudou-barry-5a211321a
-- ⚡ Fun fact: I like hiking, reppeling and caving 
+- 👋 Hi, I’m Mamoudou Barry – a full-stack developer pivoting into cybersecurity
+- 🔐 I specialize in secure coding, cloud-native architecture, and threat detection
+- 🧪 I’ve built hands-on labs with Splunk, Security Onion, and Suricata to simulate attacks and validate detection pipelines
+- 🚀 Currently learning advanced threat analysis (CySA+), while refining my skills in Python, Java, and cloud security
+- ☁️ Certified in AWS Cloud and Security+, with experience deploying secure cloud services via EC2, Lambda, and CloudTrail
+- 🔍 Passionate about blending software engineering and operational security (DevSecOps, AppSec)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mamoudou-barry-5a211321a)
+- 💻 Check out my [Cybersecurity Lab Projects](https://github.com/mamoudou94/Cybersecurity-lab-projects)
+- ⚡ Fun fact: I love hiking, rappelling
 
-<!---
-mamoudou94/mamoudou94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
